@@ -2,7 +2,7 @@
 
 ### <font color="red"><p align="center" >Hi there 🖐</p></font> 
 
-> <font color="black" size="5px">I'm <span style="color: red;"><b>Mehmet Ali</b></span> from Turkey, and I do content on Web Development. I really enjoy learning languages and frameworks like React. </font>
+> <font color="black" size="5px">I'm <span style="color: red;"><b>Mehmet Ali</b></span> from Turkey, and I'm working on Front-End and Back-End.. I really enjoy learning languages and frameworks like React. </font>
 
 <br />
 
