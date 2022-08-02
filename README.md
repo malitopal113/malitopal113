@@ -25,7 +25,7 @@
 
 [<img height="32" width="42" src="https://unpkg.com/simple-icons@v7/icons/instagram.svg" align = "left" style="margin-right:10px;" />](https://www.instagram.com/m.a.t.113/)
 
-[<img height="32" width="42" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" style="margin-right:10px;" />](https://twitter.com/m_ali_113)
+
 
 ---
 
